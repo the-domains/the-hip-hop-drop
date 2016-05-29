@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Hip Hop Drop]]></title>
         <description><![CDATA[The Hip Hop Drop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-hip-hop-drop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:14:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 19:14:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-hip-hop-drop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6c63a44-6650-4ccf-aee8-e2c48d62cf87.jpg">]]></description>
+            <link>https://thegrid.ai/the-hip-hop-drop/718d69f4-3400-4de0-875a-3feba5eac317/index.html</link>
+            <guid isPermaLink="false">718d69f4-3400-4de0-875a-3feba5eac317</guid>
+            <pubDate>Sun, 29 May 2016 19:14:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aaaa8ba-aa36-4917-9a49-e964ceb2d0ae.jpg">]]></description>
-            <link>undefined09c5707a-bb3b-46fc-84ee-6a8e4ae46651/index.html</link>
+            <link>https://thegrid.ai/the-hip-hop-drop/09c5707a-bb3b-46fc-84ee-6a8e4ae46651/index.html</link>
             <guid isPermaLink="false">09c5707a-bb3b-46fc-84ee-6a8e4ae46651</guid>
             <pubDate>Sun, 29 May 2016 19:14:17 GMT</pubDate>
         </item>
